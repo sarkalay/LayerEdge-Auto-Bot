@@ -6,5 +6,25 @@
     {
         "address": "YOUR ADDRESS 2",
         "privateKey": "YOUR PK 2"
+    },
+    {
+        "address": "YOUR ADDRESS 3",
+        "privateKey": "YOUR PK 3"
+    },
+    {
+       "address": "YOUR ADDRESS 4",
+        "privateKey": "YOUR PK 4"
+    },
+    {
+        "address": "YOUR ADDRESS 5",
+        "privateKey": "YOUR PK 5"
+    },
+    {
+        "address": "YOUR ADDRESS 6",
+        "privateKey": "YOUR PK 6"
+    },
+    {
+        "address": "YOUR ADDRESS 7",
+        "privateKey": "YOUR PK 7"
     }
 ]
